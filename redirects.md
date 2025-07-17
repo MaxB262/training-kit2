@@ -1,5 +1,6 @@
 ---
 redirect_from:
+hello
     - /on-demand/
     - /on-demand/resources/
     - /on-demand/articles/version-control-with-git/
